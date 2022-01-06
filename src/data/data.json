@@ -1,0 +1,138 @@
+{
+  "Header": {
+    "title": "Mágico Kéops",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "Olá, sou Rafael Godoy e estudo a arte da mágica desde 2014. O que iniciei como um hobby agora é minha maior paixão. Com o passar do tempo comecei a observar as ótimas reações que as pessoas tinham quando viam minhas mágicas e é isso o que mais me motiva nesta arte. Cada momento criado, cada experiência vivenciada, cada mágica feita é única. A cada ato, a cada nova apresentação, procuro trazer uma nova roupagem para números já existentes, busco tornar cada mágica mais pessoal, entrar no mundo da pessoa e logo depois trazê-la para uma hoje mais alegre. A palavra “impossível” está todos os dias a nossa frente, cabe unicamente a nós quebrar essa barreira e, assim, transformar o impossível em realidade, como numa passe de mágica!",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-magic",
+      "name": "Close-up",
+      "text": "O estilo favorito do público Categoria de mágica onde o mágico circula pelo evento interagindo entre os convidados, individualmente ou em grupos, utilizando pequenos objetos do dia a dia e criando ilusões impressionantes a poucos centímetros dos olhos de seus convidados. Uma experiência inesquecível que tornará seu evento único."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Porto Alegre / RS ",
+    "phone": "+55 (51) - 99468-9680",
+    "email": "contato@magicokeops.com",
+    "facebook": "https://pt-br.facebook.com/magicokeops/",
+    "instagram": "https://www.instagram.com/magicokeops/?hl=en",
+    "youtube": "https://www.youtube.com/channel/UCvb0cCczmpMzot4YzfCta9A",
+    "whatsapp": "https://wa.me/5551994689680"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
